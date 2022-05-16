@@ -7,6 +7,7 @@ Since we know stablecoins could be [unstable](https://rekt.news/luna-rekt/) [som
 
 - USDC depegs in Curve 3pool
 - 1 DAI could exchange for 80 USDC from the 3pool
+- `Exploit.sol` has flashloaned 5M DAI from Euler and could potentially take advantage of this depeg from the Compound protocol
 
 ## Goal
 
