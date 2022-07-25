@@ -8,7 +8,7 @@ However a Compound fork, Cream Finance, supported AMP, a ERC777 token that has a
 ## Lab Scenario  
   
 - AMP is still being used as collateral in Cream Finance  
-- Cream Finance has pver 400M AMP in the crAMP pool  
+- Cream Finance has over 400M AMP in the crAMP pool  
   
 ## Goal  
 - Find a flashloan to borrow collateral and use it to borrow AMP
