@@ -30,4 +30,4 @@ This was the first ever hack happened to a Compound fork. Before that, everyone 
 - If you see `Congrats, you've successfully passed this game` after running `npx hardhat run scripts/exploit.js`, you've passed the game  
   
 ## Did it really happen in the past?  
-- [Cream finance]([https://medium.com/cream-finance/c-r-e-a-m-finance-post-mortem-amp-exploit-6ceb20a630c5](https://medium.com/cream-finance/c-r-e-a-m-finance-post-mortem-amp-exploit-6ceb20a630c5))
+- [Cream finance](https://medium.com/cream-finance/c-r-e-a-m-finance-post-mortem-amp-exploit-6ceb20a630c5))
